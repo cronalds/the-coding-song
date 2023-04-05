@@ -1,2 +1,3 @@
 The coding Song!
 HTML & CSS, PHP & mySQL
+These are the tools of a web dev.
