@@ -2,3 +2,4 @@ The coding Song!
 HTML & CSS, PHP & mySQL
 These are the tools of a web dev.
 Node.js is the best the end!
+Browser are amazing Chrome and FireFox and Safari!
